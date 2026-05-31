@@ -29,5 +29,13 @@ World Bank Population Dataset
 ## Outcome
 
 Successfully analyzed population data and created visual representations using Python.
-bar_graph.png
-histogram.png
+
+# SkillCraft Technology - Data Science Internship Task 01
+
+## Bar Graph
+
+![Bar Graph](bar_graph.png)
+
+## Histogram
+
+![Histogram](histogram.png)
