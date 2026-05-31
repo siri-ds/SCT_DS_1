@@ -29,3 +29,5 @@ World Bank Population Dataset
 ## Outcome
 
 Successfully analyzed population data and created visual representations using Python.
+bar_graph.png
+histogram.png
